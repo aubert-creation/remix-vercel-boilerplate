@@ -13,7 +13,7 @@
     "test:types": "tsc"
   },
   "bin": {
-    "create-boilerplate": "./generate-app.js"
+    "remix-vercel-boilerplate": "./bin/generate-app.js"
   },
   "dependencies": {
     "@remix-run/node": "^1.4.1",
